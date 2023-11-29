@@ -1,0 +1,8 @@
+<person>
+    <firstName>Name</firstName>
+    <lastName>Surname</lastName>
+    <phoneNumbers>
+        <phoneNumber>800 123-1234</phoneNumber>
+        <phoneNumber>900 123-4567</phoneNumber>
+    </phoneNumbers>
+</person>
